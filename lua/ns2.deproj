@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+  <file>
+    <filename>Balance.lua</filename>
+  </file>
+  <file>
+    <filename>BalanceHealth.lua</filename>
+  </file>
+  <file>
+    <filename>BalanceMisc.lua</filename>
+  </file>
+  <file>
+    <filename>PlayingTeam.lua</filename>
+  </file>
+</project>
