@@ -10,7 +10,7 @@
 		
 // HEALTH AND ARMOR		
 kMarineHealth = 115	kMarineArmor = 60	kMarinePointValue = 7
-kJetpackHealth = 140	kJetpackArmor = 60	kJetpackPointValue = 10
+kJetpackHealth = 125	kJetpackArmor = 60	kJetpackPointValue = 10
 kExosuitHealth = 150	kExosuitArmor = 400	kExosuitPointValue = 20
 		
 kSkulkHealth = 70	kSkulkArmor = 10	kSkulkPointValue = 5

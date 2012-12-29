@@ -212,7 +212,7 @@ kAxeDamage = 25
 kAxeDamageType = kDamageType.Structural
 
 
-kGrenadeLauncherGrenadeDamage = 130
+kGrenadeLauncherGrenadeDamage = 140
 kGrenadeLauncherGrenadeDamageType = kDamageType.Structural
 kGrenadeLauncherClipSize = 4
 kGrenadeLauncherGrenadeDamageRadius = 6
