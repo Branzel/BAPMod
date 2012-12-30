@@ -244,7 +244,7 @@ kSkulkCarapaceSpeedReduction = 0 //0.08
 kGorgeCarapaceSpeedReduction = 0 //0.08
 kLerkCarapaceSpeedReduction = 0 //0.15
 kFadeCarapaceSpeedReduction = 0 //0.15
-kOnosCarapaceSpeedReduction = 0 //0.12
+kOnosCarapaceSpeedReduction = 0.12 //0.12
 
 // Umbra blocks 1 out of this many bullet
 kUmbraBlockRate = 2

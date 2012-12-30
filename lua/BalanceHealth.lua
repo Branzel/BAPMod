@@ -9,15 +9,15 @@
 // ========= For more information, visit us at http://www.unknownworlds.com =====================		
 		
 // HEALTH AND ARMOR		
-kMarineHealth = 115	kMarineArmor = 60	kMarinePointValue = 7
-kJetpackHealth = 125	kJetpackArmor = 60	kJetpackPointValue = 10
+kMarineHealth = 115	kMarineArmor = 40	kMarinePointValue = 7
+kJetpackHealth = 125	kJetpackArmor = 40	kJetpackPointValue = 10
 kExosuitHealth = 150	kExosuitArmor = 400	kExosuitPointValue = 20
 		
 kSkulkHealth = 70	kSkulkArmor = 10	kSkulkPointValue = 5
 kGorgeHealth = 150	kGorgeArmor = 70	kGorgePointValue = 7
 kLerkHealth = 125	kLerkArmor = 50	kLerkPointValue = 15
-kFadeHealth = 250	kFadeArmor = 50	kFadePointValue = 20
-kOnosHealth = 800	kOnosArmor = 400	kOnosPointValue = 26
+kFadeHealth = 250	kFadeArmor = 50	kFadePointValue = 10
+kOnosHealth = 850	kOnosArmor = 400	kOnosPointValue = 30
 		
 kEggHealth = 350	kEggArmor = 0	kEggPointValue = 2
 kMatureEggHealth = 350	kMatureEggArmor = 25

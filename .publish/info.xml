@@ -1,6 +1,6 @@
 <options>
     <build></build>
-    <description>A balance mod made by Blood And Pride.&#x0A;&#x0A;Changes:&#x0A;- All changes made by the Official Upcoming Balance Mod until 27/12/12&#x0A;- Onos health is reduced to 800&#x0A;- Onos armor is reduced to 400&#x0A;- Onos point value is reduced to 26&#x0A;- Onos gore damage is reduced to 47&#x0A;- Onos smash damage is reduced to 80&#x0A;- Exo health is increased to 150&#x0A;- Marine health is increased to 115&#x0A;- Marine armor is increased to 60&#x0A;- Marine point value is changed to 7&#x0A;- Jetpack health is increased to 140&#x0A;- Jetpack armor is increased to 60&#x0A;- Shade health reset to normal (250).&#x0A;- Whip Whack Range had been reduced to 3.5 from 6.5 since the grenade damage range is only 6.</description>
+    <description>A balance mod made by Blood And Pride.&#x0A;&#x0A;All changes can be found here:&#x0A;https://github.com/Branzel/BAPMod</description>
     <id>115938063</id>
     <kind>Game</kind>
     <title>Blood And Pride Mod</title>

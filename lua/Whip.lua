@@ -74,7 +74,7 @@ Whip.kFuryDamageBoost = .1          // 10% extra damage
 
 // Whacking; throwing back grenades that comes into whackRange
 // need a little bit extra range to avoid getting hit by grenades going right at it
-Whip.kWhackRange = 4.5 // Changed from 6.5
+Whip.kWhackRange = 6.5 // Changed from 6.5
 // performance; we track grenades that are close enough every tick, but we update the
 // grenade list only 3 times per second. Grenades travel 15m/sec, so we grab those
 // inside 10m + whackRange and put them onto our list
