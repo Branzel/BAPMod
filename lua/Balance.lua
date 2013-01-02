@@ -237,7 +237,7 @@ kFlamethrowerStackRate = 0.4
 kFlameRadius = 1.8
 kFlameDamageStackWeight = 0.5
 
-kMinigunDamage = 25
+kMinigunDamage = 19
 kMinigunDamageType = kDamageType.Heavy
 kMinigunClipSize = 250
 
