@@ -1,8 +1,8 @@
 <options>
-    <build></build>
     <description>A balance mod made by Blood And Pride.&#x0A;&#x0A;All changes can be found here:&#x0A;https://github.com/Branzel/BAPMod</description>
     <id>115938063</id>
     <kind>Game</kind>
-    <title>Blood And Pride Mod</title>
+    <build></build>
     <visibility>Public</visibility>
+    <title>Blood And Pride Mod</title>
 </options>
